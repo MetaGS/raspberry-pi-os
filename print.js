@@ -58,6 +58,12 @@ function traverse(node) {
   return tree;
 }
 
+
+
+
+
+
+
 /*
 1. Create a new Node by passing a value
 2. Check if there is a root node, if it is null, then set it to newNode
